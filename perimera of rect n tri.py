@@ -1,6 +1,6 @@
 import math
 
-print(" ")          # Judy Marie Delos Reyes \ CS212 \ January 20, 2022
+print(" ")          # CS212 \ January 20, 2022
 print(" ")          # spacing for visuals
 print(" ")
 
